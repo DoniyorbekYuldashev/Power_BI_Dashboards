@@ -1,5 +1,7 @@
 # 📊 Data Jobs Dashboard w/ Power BI
 
+![Dashboard Page 1](/images/Project1_Page1.png)
+
 ## 🧩 Introduction
 
 This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem:  
@@ -37,3 +39,24 @@ The goal is to help users make **data-driven career decisions** with clarity and
 - 🖱️ **Interactive Reporting**
   - 🎯 **Slicers** – Dynamic filtering by job title  
   - 🔘 **Buttons & Bookmarks** – Smooth and intuitive navigation  
+  - 🔍 **Drill-Through** – From high-level summaries to detailed views
+
+
+## Dashboard Overview
+
+### Page 1: High-Level Market View
+
+  ![Dashboard Page 1](/images/Project1_Page1.png)
+
+This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+
+### Page 2: Job-Title Drill Through
+
+  ![Dashboard Page 2](/images/Project1_Page2.png)
+
+  This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details including salary ranges, work-from-home status, top hiring platforms, and a global map of job locations.
+
+## Conclusion
+
+This dashboard showcases how Power BI can transform raw hiring data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
+
